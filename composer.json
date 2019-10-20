@@ -1,0 +1,14 @@
+{
+    "name": "lo/composer",
+    "description": "quete composer",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2",
+        "ehime/hello-world": "^1.0"
+    }
+
+class Hello extends App\Wcs{
+
+}
+
+}
+
